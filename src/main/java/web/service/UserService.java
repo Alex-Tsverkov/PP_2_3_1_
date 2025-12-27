@@ -1,11 +1,13 @@
 package web.service;
 
+import org.springframework.transaction.annotation.Transactional;
 import web.dao.UserDao;
 import web.models.User;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
+@Transactional
 public class UserService {
 
     private final UserDao dao;
