@@ -1,10 +1,10 @@
-package web.controllers;
+package app.config.web.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import web.models.User;
-import web.service.UserService;
+import app.config.web.models.User;
+import app.config.web.service.UserService;
 
 @Controller
 @RequestMapping("/users")
@@ -16,7 +16,7 @@ public class UserController {
     }
 
     @GetMapping
-    public String users(Model model) {
+    public String getUsers(Model model) {
         model.addAttribute("users", service.getAll());
         return "users";
     }

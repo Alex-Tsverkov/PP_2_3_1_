@@ -8,11 +8,8 @@
 
 <h2>Редактировать пользователя</h2>
 
-<!-- Форма отправляется POST-запросом на /users/edit -->
 <form th:method="POST" th:action="@{/users/updit}" th:object="${user}">
-    <!-- Передаем ID пользователя как скрытое поле, чтобы обновить нужную запись -->
     <input type="hidden" name="id" th:value="*{id}" />
-
     <label for="name_edit">Имя: </label>
     <input type="text" th:field="*{name}" id="name_edit" />
     <br/>

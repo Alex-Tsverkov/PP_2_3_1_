@@ -1,4 +1,4 @@
-package web.models;
+package app.config.web.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
