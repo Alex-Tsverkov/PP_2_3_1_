@@ -11,24 +11,12 @@
   <component name="ChangeListManager">
     <list default="true" id="752b7540-b0ea-4444-864f-f81af91ecbc6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/13387e77-442a-4d54-b580-dae56c5acd2c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/13387e77-442a-4d54-b580-dae56c5acd2c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/web/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/web/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/web/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/web/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/web/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/unnamed/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/unnamed/web/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/web/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/web/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/web/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/web/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PP_2_2_2_spring_mvc_war_exploded/WEB-INF/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PP_2_2_2_spring_mvc_war_exploded/WEB-INF/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/web/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +59,13 @@
     &quot;Maven.PP_2_2_2_spring-mvc [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.PP_2_2_2_spring-mvc [install].executor&quot;: &quot;Run&quot;,
     &quot;Maven.PP_2_3_1_spring-mvc [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PP_2_3_1_spring-mvc [compile].executor&quot;: &quot;Run&quot;,
     &quot;Maven.PP_2_3_1_spring-mvc [install].executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;Tomcat Server.Tomcat 9.0.112.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -86,10 +76,10 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2678161&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -107,6 +97,19 @@
       <recent name="app" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 9.0.112" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.112" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.112" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -118,9 +121,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="0028b40f-8e41-4369-9a02-66ab87be9eee" />
-        <option name="HTTP_PORT" value="8081" />
-        <option name="JNDI_PORT" value="1100" />
+        <option name="BASE_DIRECTORY_NAME" value="7e1bc9c0-38d1-426d-bb02-e7ea5fd9a580" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -128,7 +129,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="60146" />
+        <option name="DEBUG_PORT" value="58769" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -192,14 +193,17 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="PP_2_2_2_spring-mvc:war exploded" />
+        </option>
       </method>
     </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
       </set>
     </attachedChunks>
   </component>
@@ -215,11 +219,22 @@
       <workItem from="1766783884780" duration="15052000" />
       <workItem from="1766884954267" duration="2270000" />
       <workItem from="1767125034060" duration="1143000" />
+      <workItem from="1767651686278" duration="1810000" />
+      <workItem from="1767653534136" duration="2192000" />
+      <workItem from="1767713989251" duration="8173000" />
+      <workItem from="1767730082797" duration="4614000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:javax.persistence:javax.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.thymeleaf:thymeleaf" />
+    <option featureType="dependencySupport" implementationName="maven-packaging:war" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

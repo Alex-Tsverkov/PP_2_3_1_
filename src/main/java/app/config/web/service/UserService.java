@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-@Transactional(readOnly = true)
+@Transactional
 public class UserService {
 
     private final UserDao dao;
@@ -19,19 +19,18 @@ public class UserService {
     public List<User> getAll() {
         return dao.findAll();
     }
-
+    @Transactional
     public void add(User user) {
         dao.save(user);
     }
-
     public User get(Long id) {
         return dao.findById(id);
     }
-
+    @Transactional
     public void update(User user) {
         dao.update(user);
     }
-
+    @Transactional
     public void delete(Long id) {
         dao.delete(id);
     }
