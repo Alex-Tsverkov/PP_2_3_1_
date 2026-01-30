@@ -8,7 +8,7 @@
 
 <h2>Редактировать пользователя</h2>
 
-<form th:method="POST" th:action="@{/users/updit}" th:object="${user}">
+<form th:method="POST" th:action="@{/users/update}" th:object="${user}">
     <input type="hidden" name="id" th:value="*{id}" />
     <label for="name_edit">Имя: </label>
     <input type="text" th:field="*{name}" id="name_edit" />
