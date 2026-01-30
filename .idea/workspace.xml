@@ -10,21 +10,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752b7540-b0ea-4444-864f-f81af91ecbc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/13387e77-442a-4d54-b580-dae56c5acd2c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/13387e77-442a-4d54-b580-dae56c5acd2c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/web/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/web/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/WebInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/service/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +61,6 @@
 }</component>
   <component name="ProjectId" id="37OCAwFPuygAhANSZDkHJnzqJta" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -102,6 +108,7 @@
       <recent name="C:\Users\ATsverkov.SLB\IdeaProjects\PP_2_3_1_\src\main\resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="app.web.config" />
       <recent name="app" />
     </key>
   </component>
@@ -312,7 +319,7 @@
       <workItem from="1769502229808" duration="265000" />
       <workItem from="1769502807818" duration="1785000" />
       <workItem from="1769505189847" duration="1932000" />
-      <workItem from="1769747216558" duration="4443000" />
+      <workItem from="1769747216558" duration="10846000" />
     </task>
     <servers />
   </component>
