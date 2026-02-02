@@ -10,16 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752b7540-b0ea-4444-864f-f81af91ecbc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/web/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/web/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/WebInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/config/WebInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/dao/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/config/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/web/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/web/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/web/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +313,8 @@
       <workItem from="1769502229808" duration="265000" />
       <workItem from="1769502807818" duration="1785000" />
       <workItem from="1769505189847" duration="1932000" />
-      <workItem from="1769747216558" duration="10846000" />
+      <workItem from="1769747216558" duration="12274000" />
+      <workItem from="1770018068401" duration="625000" />
     </task>
     <servers />
   </component>

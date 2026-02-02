@@ -4,14 +4,14 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import app.web.models.User;
-import app.web.service.UserServiceImpl;
+import app.web.service.UserService;
 
 @Controller
 @RequestMapping("/users")
 public class UserController {
-    private final UserServiceImpl service;
+    private final UserService service;
 
-    public UserController(UserServiceImpl service) {
+    public UserController(UserService service) {
         this.service = service;
     }
 
